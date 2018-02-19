@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="roll">Roll</string>
+    <string name="hold">Hold</string>
+    <string name="reset">Reset</string>
+    <string name="text_view">text view</string>
+    <string name="die1">die1</string>
+</resources>
